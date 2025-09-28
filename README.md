@@ -15,7 +15,7 @@ Desarrollo de una aplicación pública para que toda la comunidad pueda acceder 
 
 ## Educación 🎓
 
-Tecnólogo en Análisis y Desarrollo de Software
+Tecnóloga en Análisis y Desarrollo de Software
 SENA, Apartadó
 Abril 2023 – Septiembre 2025
 
