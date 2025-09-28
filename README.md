@@ -17,7 +17,7 @@ Desarrollo de una aplicación pública para que toda la comunidad pueda acceder 
 
 Tecnóloga en Análisis y Desarrollo de Software
 SENA, Apartadó
-Abril 2023 – Septiembre 2025
+Abril 2023 – Noviembre 2025
 
 ## Tecnologías y herramientas 🛠️
 
