@@ -9,7 +9,7 @@ Con experiencia en desarrollo web, he contribuido en proyectos clave durante mi 
 ## Experiencia laboral 🚀
 
 Diócesis de Apartadó – Analista y Desarrolladora de Software
-Diciembre 2024 – Junio 2025
+Mayo 2025 – Noviembre 2025
 
 Desarrollo de una aplicación pública para que toda la comunidad pueda acceder y consultar información completa sobre la Diócesis de Apartadó, mejorando la comunicación y el acceso a datos eclesiásticos.
 
